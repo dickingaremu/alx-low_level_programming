@@ -1,2 +1,11 @@
 #!/bin/bash
-gcc $CFILE -o clsfun
+gcc $CFILE -s >> 2-assembler
+
+
+
+
+
+
+
+
+echo gcc -s
